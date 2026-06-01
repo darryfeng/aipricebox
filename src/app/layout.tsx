@@ -35,6 +35,7 @@ export default function RootLayout({
               <img src="/logo20260601.png" alt="Logo" className="w-8 h-8 rounded-lg" />
               AI Price Box
             </a>
+          </div>
         </header>
         {children}
         {/* Footer */}
