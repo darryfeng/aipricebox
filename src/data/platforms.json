@@ -1,0 +1,82 @@
+[
+  {
+    "id": "openrouter",
+    "name": "OpenRouter",
+    "description": "全球领先的AI模型聚合平台，统一API接入50+模型，支持按量付费，适合开发者和企业灵活调用各类大模型。",
+    "models": ["GPT", "Claude", "Gemini", "Deepseek", "Qwen", "Llama", "Mistral", "智谱GLM"],
+    "supportsProxy": true,
+    "website": "https://openrouter.ai",
+    "region": "国外",
+    "hot": true
+  },
+  {
+    "id": "ark-agent-plan",
+    "name": "方舟Agent Plan",
+    "description": "字节跳动旗下火山引擎推出的AI模型服务平台，提供DeepSeek、豆包等模型API，支持代理分销模式。",
+    "models": ["Deepseek", "通义千问", "智谱GLM", "MiniMax", "Kimi"],
+    "supportsProxy": true,
+    "website": "https://www.volcengine.com/product/ark",
+    "region": "国内",
+    "hot": true
+  },
+  {
+    "id": "iflytek-maas",
+    "name": "讯飞星辰MaaS",
+    "description": "科大讯飞推出的大模型即服务平台，集成讯飞星火大模型及多款主流模型，提供一站式API调用和代理分销能力。",
+    "models": ["GPT", "Claude", "Deepseek", "通义千问", "文心一言", "智谱GLM"],
+    "supportsProxy": true,
+    "website": "https://xinghuo.xfyun.cn",
+    "region": "国内",
+    "hot": false
+  },
+  {
+    "id": "ai-ping",
+    "name": "AI Ping",
+    "description": "国内新兴AI模型聚合平台，主打低价策略，支持GPT、Claude等主流模型API中转，提供代理分销返佣。",
+    "models": ["GPT", "Claude", "Gemini", "Deepseek", "Llama"],
+    "supportsProxy": true,
+    "website": "https://aiping.ai",
+    "region": "国内",
+    "hot": true
+  },
+  {
+    "id": "n1n",
+    "name": "n1n",
+    "description": "专业AI API中转平台，提供GPT、Claude、Gemini等模型的稳定中转服务，支持代理分销，按量计费。",
+    "models": ["GPT", "Claude", "Gemini", "Deepseek", "Kimi"],
+    "supportsProxy": true,
+    "website": "https://n1n.ai",
+    "region": "国内",
+    "hot": false
+  },
+  {
+    "id": "dmpapi",
+    "name": "DMPAPI",
+    "description": "专业的AI模型API聚合与分发平台，整合多款国内外主流大模型，提供统一接口和灵活的代理分销体系。",
+    "models": ["GPT", "Claude", "Deepseek", "文心一言", "百川", "MiniMax"],
+    "supportsProxy": true,
+    "website": "https://dmpapi.com",
+    "region": "国内",
+    "hot": false
+  },
+  {
+    "id": "deepseek-official",
+    "name": "DeepSeek 官方API",
+    "description": "DeepSeek官方API平台，提供DeepSeek-V3、DeepSeek-R1等模型接口，价格极具竞争力，暂不支持代理分销。",
+    "models": ["Deepseek"],
+    "supportsProxy": false,
+    "website": "https://platform.deepseek.com",
+    "region": "国内",
+    "hot": true
+  },
+  {
+    "id": "together-ai",
+    "name": "Together AI",
+    "description": "美国领先的开源模型托管平台，提供Llama、Mistral等开源模型的高速推理API，支持微调和部署。",
+    "models": ["Llama", "Mistral", "Deepseek", "Qwen", "智谱GLM"],
+    "supportsProxy": false,
+    "website": "https://www.together.ai",
+    "region": "国外",
+    "hot": false
+  }
+]
