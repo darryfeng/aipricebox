@@ -31,9 +31,9 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col bg-gray-50">
         <header className="bg-white border-b border-gray-100 sticky top-0 z-50 backdrop-blur-sm bg-white/80">
           <div className="max-w-6xl mx-auto px-4 h-14 flex items-center">
-            <a href="/" className="flex items-center gap-2 font-bold text-gray-900 text-lg hover:opacity-80 transition-opacity">
+            <a href="/" className="flex items-center gap-2 font-bold text-gray-900 text-xl hover:opacity-80 transition-opacity">
               <img src="/logo20260601.png" alt="Logo" className="w-8 h-8 rounded-lg" />
-              AI Price Box
+              AI BOX
             </a>
           </div>
         </header>
